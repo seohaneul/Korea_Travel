@@ -8,7 +8,8 @@ export default function header() {
 }
 
 const Div = styled.div`
-    height: 50px;
+    height: 80px;
+    line-height: 80px;
     width: 100%;
     background-color: #92bbe7;
 `
